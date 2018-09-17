@@ -14,7 +14,7 @@ pip install bokeh
 Run
 ---
 ```
-bokeh serve script.py
+bokeh serve plot.py
 ```
 
-And then go on a web browser at http://localhost:5006/script.
+And then go on a web browser at http://localhost:5006/plot.
