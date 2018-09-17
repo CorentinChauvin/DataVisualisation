@@ -1,7 +1,7 @@
 Exercise 2 - Visualisation
 ==========================
 
-Script to visualise some functions, given by their expression.
+Small script to visualise with Bokeh some functions, given by their expression.
 
 
 Install
